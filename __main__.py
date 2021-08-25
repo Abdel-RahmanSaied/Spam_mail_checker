@@ -40,5 +40,4 @@ app = QtWidgets.QApplication([])
 classifier = SpamClassifier()
 app.setStyleSheet(qdarkstyle.load_stylesheet_pyqt5())
 app.exec_()
-
-#test sec branch kkk
+#ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
